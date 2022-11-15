@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Bibliotèque","order":2,"parentId":2,"scrollX":540.6666666666666,"scrollY":298.6666666666667},
+{"id":2,"expanded":true,"name":"Forêt","order":1,"parentId":0,"scrollX":742,"scrollY":293.3333333333333},
+{"id":3,"expanded":true,"name":"Bibliotèque 2","order":3,"parentId":1,"scrollX":540.6666666666666,"scrollY":325.3333333333333},
+{"id":4,"expanded":true,"name":"Forêt jardin","order":4,"parentId":3,"scrollX":540.6666666666666,"scrollY":298.6666666666667},
+{"id":5,"expanded":false,"name":"Maison buisson","order":5,"parentId":4,"scrollX":540.6666666666666,"scrollY":325.3333333333333}
+]
